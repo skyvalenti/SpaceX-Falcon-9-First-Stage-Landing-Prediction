@@ -1,6 +1,6 @@
 # Project Overview
 
-Space Exploration Technologies Corporation, or SpaceX, is a trailblazing American company specializing in spacecraft manufacturing, launch services, and satellite communications. Headquartered at SpaceX Starbase, the company aims to reduce space transportation costs through reusable technology and ultimately establish a sustainable colony on Mars. SpaceX is renowned for its Falcon 9 and Falcon Heavy rockets, as well as the Dragon spacecraft.
+Space Exploration Technologies Corporation, or SpaceX, is a trailblazing American company specializing in spacecraft manufacturing, launch services, and satellite communications. Headquartered at SpaceX Starbase in Brownsville, TX, the company aims to reduce space transportation costs through reusable technology and ultimately establish a sustainable colony on Mars. SpaceX is renowned for its Falcon 9 and Falcon Heavy rockets, as well as the Dragon spacecraft.
 
 In this capstone project, we aim to predict the successful landing of the Falcon 9 first stage. SpaceX’s cost efficiency, with launches priced at $62 million compared to other providers’ $165 million, is largely due to their reusable first stage. By predicting landing success, we can estimate launch costs, offering valuable insights for companies bidding against SpaceX.
 
@@ -23,10 +23,6 @@ In this capstone project, we aim to predict the successful landing of the Falcon
 6. **Data Grouping**: Split the data into groups based on categorical variables for deeper analysis.
 7. **Model Development**: Build, evaluate, and refine predictive models.
 8. **Presentation**: Create a comprehensive presentation to communicate your findings and analysis.
-
-## Revisions and Additions
-
-In addition to the foundational tools and methods traditionally used in this course, we have incorporated several new techniques and tools to enhance the learning experience. These include advanced machine learning algorithms, modern data visualization libraries, and cloud-based data processing platforms. These additions ensure that the course remains up-to-date with current industry standards and practices, providing a robust and comprehensive learning experience.
 
 ## Capstone Project Details
 
